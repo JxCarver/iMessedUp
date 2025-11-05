@@ -1,0 +1,10 @@
+version: 1
+challenges:
+    iMessedUp:
+        author: JCarver
+        brief: Easy Forensics, solvable with no tools
+        flag: MAKEUC{ICANN_sP3II}
+        case_sensitive: true
+        flag_type: static 
+        message: file:message.txt
+        player_files: jeraffs.pdf
